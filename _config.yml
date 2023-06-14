@@ -20,7 +20,7 @@
 
 title:            'Wax'
 description:      'Minimal Exhibitions with Jekyll'
-url:              'localhost'
+url:              'https://christin-lab.github.io/wax-main/localhost/wax/collection/'
 baseurl:          '/wax-main'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
