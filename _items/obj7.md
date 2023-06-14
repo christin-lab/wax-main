@@ -7,7 +7,7 @@ location: Grenada
 order: '06'
 layout: items_item
 collection: items
-thumbnail: "/img/derivatives/iiif/images/obj7/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/obj7/full/1140,/0/default.jpg"
+thumbnail: "/img/derivatives/simple/obj7/thumbnail.jpg"
+full: "/img/derivatives/simple/obj7/fullwidth.jpg"
 manifest: "/img/derivatives/iiif/obj7/manifest.json"
 ---

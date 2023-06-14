@@ -7,7 +7,7 @@ location: Antigua
 order: '00'
 layout: items_item
 collection: items
-thumbnail: "/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/obj1/full/1140,/0/default.jpg"
+thumbnail: "/img/derivatives/simple/obj1/thumbnail.jpg"
+full: "/img/derivatives/simple/obj1/fullwidth.jpg"
 manifest: "/img/derivatives/iiif/obj1/manifest.json"
 ---

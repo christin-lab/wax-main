@@ -7,7 +7,7 @@ location: Trinidad
 order: '02'
 layout: items_item
 collection: items
-thumbnail: "/img/derivatives/iiif/images/obj3/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/obj3/full/1140,/0/default.jpg"
+thumbnail: "/img/derivatives/simple/obj3/thumbnail.jpg"
+full: "/img/derivatives/simple/obj3/fullwidth.jpg"
 manifest: "/img/derivatives/iiif/obj3/manifest.json"
 ---
